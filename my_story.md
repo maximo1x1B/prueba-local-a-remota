@@ -8,7 +8,7 @@
 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis eos assumenda quos odio laudantium maxime placeat est impedit at sit quibusdam, accusamus tempora nesciunt fugit mollitia laboriosam, eius doloremque officiis.
 </p>
 
-![icono1](./imagines/Icono_M.png)
+![icon1](./imagines/Icono_M.png)
 <p>
     This is my first logo
 </p>
@@ -24,6 +24,15 @@ Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis eos assumenda
 
 <p>
     Este es mi primer logo.
+</p>
+
+![icon3](./imagines/elephant_silhouet.svg)
+<p>
+    This is my first image.
+</p>
+
+<p>
+    Esta es mi primera imagen.
 </p>
 
 <style>
