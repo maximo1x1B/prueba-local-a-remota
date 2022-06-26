@@ -28,11 +28,20 @@ Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis eos assumenda
 
 ![icon3](./imagines/elephant_silhouet.svg)
 <p>
-    This is my first image.
+    This is my first image svg.
 </p>
 
 <p>
-    Esta es mi primera imagen.
+    Esta es mi primera imagen svg.
+</p>
+
+![icon4](./imagines/colibri.png)
+<p>
+    This is my second image.
+</p>
+
+<p>
+    Esta es mi segunda imagen.
 </p>
 
 <style>
