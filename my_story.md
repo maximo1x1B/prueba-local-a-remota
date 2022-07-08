@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-=======
-
-#My story
-
->>>>>>> universe_1.1
-
 </style>
 # My story
 
