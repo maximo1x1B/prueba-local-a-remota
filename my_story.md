@@ -39,3 +39,9 @@ Esta es mi segunda imagen.
 
 ## Cuarta prueba :(
 #### hola como, ¿funcionas?
+
+# Cuarta y ultima prueba :)
+
+# Caballo Negro 
+
+![icono6](./imagines/Black_horse.svg)
