@@ -32,5 +32,6 @@ Esta es mi segunda imagen.
 
 ## Veamos a ver si se actuailiza una vez clonado el proyecto y modificado en un escritorio remoto
 
+![icono6](./imagines/wolves-head.jpg)
 
-# my second image svg with image
+### segunda prueba 
