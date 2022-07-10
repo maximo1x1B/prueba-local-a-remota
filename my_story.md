@@ -32,6 +32,10 @@ Esta es mi segunda imagen.
 
 ## Veamos a ver si se actuailiza una vez clonado el proyecto y modificado en un escritorio remoto
 
-![icono6](./imagines/wolves-head.jpg)
-
 ### segunda prueba 
+
+
+## Tercera prueba :(
+
+## Cuarta prueba :(
+#### hola como, ¿funcionas?
